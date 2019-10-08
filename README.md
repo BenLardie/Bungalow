@@ -3,6 +3,9 @@ Make a clone of the repository and cd into it.
 Create a virtual eniviroment.
 ``` pyenv virturalenv bungalow ```
 
+Activate enviroment.
+```pyenv activate bungalow```
+
 Then in the command liine you need to install the requirments. 
 ``` pip install -r requirements.txt ```
 
